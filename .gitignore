@@ -1,0 +1,8 @@
+# Game executable
+Game.exe
+
+# Ruby Game Scripting System (RGSS) DLL
+RGSS104E.dll
+
+# Save data
+Save*.rxdata
